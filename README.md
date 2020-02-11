@@ -12,7 +12,7 @@ $~ npm start
 
 Links
 -----
-- [Tutorial on Dev.to](https://dev.to/sergej108/how-to-implement-page-scroll-animations-with-animista-1292-temp-slug-174450?preview=f1cb9d2a91a6ac3461eb04c35fba1bfcd08fa03d2441852e4460b9bbd182019c2141e20bd754b6105d965642bd5d5f209dacd254650aca6afdd7c984)
+- [Tutorial](https://dev.to/sergej108/how-to-implement-page-scroll-animations-with-animista-5g92)
 - [Live demo](https://animistascrolltutorial.netlify.com)
 - [Agency Theme](https://startbootstrap.com/themes/agency/)
 - [Agency Theme GitHub](https://github.com/BlackrockDigital/startbootstrap-agency)
